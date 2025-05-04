@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/scrapy/scrapy
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Function return type
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: O gráfico "Function return type" mostra que, entre 2020 (0% de funções com tipo de retorno declarado, 3290 sem tipagem) e 2025 (31% com type hints, 1463 tipadas vs. 3244 não), houve uma adoção progressiva de boas práticas, iniciada em 2022 (6%) e acelerada em 2023–2025, possivelmente devido à migração para Python 3.10+ e introdução de ferramentas como mypy ou frameworks. Apesar da melhoria na legibilidade e prevenção de bugs, 69% das funções ainda não têm retorno tipado, indicando riscos de manutenção e legado pendente. Recomenda-se priorizar tipagem em módulos críticos.
 
 
 
